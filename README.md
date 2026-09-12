@@ -9,6 +9,7 @@ until they give up and press **"Yes."**
 
 👉 [Click here to open the website](https://alone-ai7.github.io/valentines/)   
 
-## Contribute 
+## Contribute
 
 Fork it and submit a PR.
+**Please explain what you changed in the PR description** so I can review it properly.   
