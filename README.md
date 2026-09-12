@@ -7,8 +7,8 @@ until they give up and press **"Yes."**
 
 ## Run it
 
-Just open `index.html` in your browser.
+👉 [Click here to open the website](https://alone-ai7.github.io/valentines/)   
 
-## Contribute
+## Contribute 
 
 Fork it and submit a PR.
